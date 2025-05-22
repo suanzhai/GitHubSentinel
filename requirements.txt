@@ -1,6 +1,8 @@
-requests
-openai
-gradio
-loguru
-schedule
-markdown2
+requests~=2.32.3
+openai~=1.79.0
+gradio~=5.30.0
+loguru~=0.7.3
+schedule~=1.2.2
+markdown2~=2.5.3
+bs4~=0.0.2
+beautifulsoup4~=4.13.4
